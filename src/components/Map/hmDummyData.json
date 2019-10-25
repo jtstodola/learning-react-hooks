@@ -1,0 +1,3438 @@
+{
+  "id": "Heat Map",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6064,
+        "NAME": "Repair HVAC &Elec USARC Sturtevant, WI",
+        "DESCRIPTION": "Repair HVAC and electric systems for USARC Bldg",
+        "ORG_CD": "MVR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.89856291500188, 42.71844998100266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2464,
+        "NAME": "ST CROIX HEADWATERS, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.98764310800198, 46.198260518002265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2465,
+        "NAME": "ORWELL LAKE MINNESOTA",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.17941751600203, 46.21730590800208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2466,
+        "NAME": "SA BRECKENRIDGE MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.5881477580021, 46.26358585600207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3391,
+        "NAME": "WAUWATOSA, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.95612192600187, 43.0082860500026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3502,
+        "NAME": "NORTHPORT HARBOR WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.97672186200178, 45.290696902002544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3503,
+        "NAME": "CHARLEVOIX HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.26191081200166, 45.319487116002655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3504,
+        "NAME": "PETOSKEY HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.96161063800166, 45.37695716800263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3505,
+        "NAME": "WASHINGTON ISLAND HARBOR, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.85151181200175, 45.401456952002555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3506,
+        "NAME": "WASHINGTON ISLAND, WI (HARBORS AT)",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.85151181200175, 45.401456952002555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3507,
+        "NAME": "CEDAR RIVER HARBOR, MI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.3511121200018, 45.40948689400254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3508,
+        "NAME": "INLAND ROUTE  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.78471054400163, 45.44340721000262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3509,
+        "NAME": "ALANSON - INLAND ROUTE MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.78672054400167, 45.4441972100026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3510,
+        "NAME": "HAMMOND BAY HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.0775001160016, 45.50808731000268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3511,
+        "NAME": "CHEBOYGAN HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.46441039200164, 45.65640731400264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3512,
+        "NAME": "ST. JAMES HARBOR",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.51451106800171, 45.741877218002614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3513,
+        "NAME": "GRAYS REEF PASSAGE",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.19751088000166, 45.77834726800261]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3514,
+        "NAME": "MACKINAW CITY HARBOR",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.71939058200161, 45.779337324002604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3515,
+        "NAME": "CHANNELS IN STRAITS OF MACKINAC MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.62511053600163, 45.84093735400263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3516,
+        "NAME": "MACKINAC ISLAND HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.61281053000165, 45.84681735800265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3519,
+        "NAME": "MANISTIQUE HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.24641157400174, 45.94579719400257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3520,
+        "NAME": "LES CHENEAUX ISLANDS CHANNELS",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3468103980016, 45.99337743400266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3521,
+        "NAME": "DETOUR HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.8991301160016, 45.99738748600263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3522,
+        "NAME": "HAMBURG & GREEN OAK MI FDR",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.74491926800168, 42.40235630400285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3523,
+        "NAME": "CHANNELS IN LAKE ST. CLAIR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.72919866600157, 42.52883645200288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3524,
+        "NAME": "ST. CLAIR RIVER AND LAKE ST. CLAIR, MI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.58798458400159, 42.550442474002885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3525,
+        "NAME": "H-LANSING, MI-RIVERFRONT MASTE",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.43288971800166, 42.567906290002774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3526,
+        "NAME": "KENOSHA HARBOR  WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.81348175400186, 42.58832592800267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3527,
+        "NAME": "CLINTON RIVER  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.8240887360016, 42.59412646600283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3528,
+        "NAME": "CLINTON RIVER SPILLWAY, MI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.8240887360016, 42.59412646600283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3529,
+        "NAME": "ST. CLAIR RIVER AND LAKE ST. CLAIR, MI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.54714190100157, 42.60575538500288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3530,
+        "NAME": "ST. CLAIR RIVER  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.52960856000159, 42.61745650200287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3531,
+        "NAME": "SAUGATUCK HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.20661081000179, 42.65773613200269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3532,
+        "NAME": "BELLE RIVER",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.49660855600156, 42.71393654000287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3533,
+        "NAME": "RACINE HARBOR WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.74941174600185, 42.732515984002625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3534,
+        "NAME": "HOLLAND HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.20915083400178, 42.77285617000271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3535,
+        "NAME": "HOLLAND HARBOR - MITIGATION OF SHORE DAMAGE",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.20915083400178, 42.77285617000271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3536,
+        "NAME": "PINE RIVER",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.48747857000156, 42.82061657800286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3537,
+        "NAME": "BLACK RIVER  PORT HURON  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.43117856400153, 42.979076640002866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3538,
+        "NAME": "LOWER KINNICKINNIC RV,MIL.WI  AAKR0",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.94308091600188, 42.99239204800263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3539,
+        "NAME": "WAUWATOSA - COUNTY WI FDR",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.95612192600187, 43.0082860500026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3540,
+        "NAME": "FLINT RIVER, MI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.73343337800165, 43.02000052000278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3541,
+        "NAME": "MILWAUKEE HARBOR  WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.89286189400185, 43.02573606400264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3542,
+        "NAME": "MILWAUKEE HARBOR, WI          AAMH0",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.89567589600185, 43.03564906600265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3543,
+        "NAME": "GRAND HAVEN HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.23619091000175, 43.06399626600272]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3544,
+        "NAME": "GRAND HAVEN HARBOR - MITIGATION OF SHORE DAMAGE",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.23619091000175, 43.06399626600272]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3545,
+        "NAME": "MUSKEGON HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.34045100800174, 43.22765630800269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3546,
+        "NAME": "MUSKEGON HARBOR - MITIGATION OF SHORE DAMAGE",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.34045100800174, 43.22765630800269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3547,
+        "NAME": "LEXINGTON HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.52370867600155, 43.268706732002855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3548,
+        "NAME": "LEXINGTON HARBOR - MITIGATION OF SHORE DAMAGE",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.52370867600155, 43.268706732002855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3549,
+        "NAME": "FRANKENMUTH, MI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.73802944200163, 43.331706628002784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3550,
+        "NAME": "CASS RIVER, CITY OF VASSAR, MI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.5815323520016, 43.37061265800279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3551,
+        "NAME": "WHITE LAKE HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.42521109000177, 43.375096348002685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3552,
+        "NAME": "WHITE LAKE HARBOR - MITIGATION OF SHORE DAMAGE",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.42521109000177, 43.375096348002685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3553,
+        "NAME": "PORT WASHINGTON HARBOR  WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.86481195600187, 43.38643618600258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3554,
+        "NAME": "PORT SANILAC HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.53530871400153, 43.430666786002845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3555,
+        "NAME": "PORT SANILAC HARBOR - MITIGATION OF SHORE DAMAGE",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.53530871400153, 43.430666786002845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3556,
+        "NAME": "SAGINAW RIVER  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.84017956200161, 43.62531671600274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3557,
+        "NAME": "SAGINAW RIVER - DIKE DISPOSAL",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.84017956200161, 43.62531671600274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3561,
+        "NAME": "CLINTON RIVER ENVIRONMENTAL RESTORATION",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.92556979600155, 42.57155244600286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3562,
+        "NAME": "DETROIT RIVER ENVIRONMENTAL DR",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.04196582300159, 42.325142347002824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3563,
+        "NAME": "LANSING, MI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.54964882200166, 42.73244633600279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3564,
+        "NAME": "MANISTEE HARBOR & RIVER CHANNEL",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.34431123300178, 44.25040664600264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3584,
+        "NAME": "UPPER SAGINAW RIVER, MI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.84017956200161, 43.62531671600274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3585,
+        "NAME": "SEBEWAING RIVER  MICHIGAN ",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.4626093520016, 43.73670679400275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3586,
+        "NAME": "SEBEWAING RIVER  MICHIGAN ",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.4626093520016, 43.73670679400275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3587,
+        "NAME": "SHEBOYGAN HARBOR  WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.70111193800182, 43.74902632400259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3588,
+        "NAME": "PENTWATER HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.43961118600177, 43.780876482002654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3589,
+        "NAME": "KAWKAWLIN RIVER  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.18333981400164, 43.81668674400273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3590,
+        "NAME": "SAXON HARBOR, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.40001427900187, 46.58334684800236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3591,
+        "NAME": "ST JOSEPH RVR,S.BEND,IN       ABST0",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.24823731500183, 41.68729051500273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3592,
+        "NAME": "ST. JOSEPH RIVER AND SPY RUN CREEK, IN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.24823731500183, 41.68729051500273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3593,
+        "NAME": "WHITE LAKE, MI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.42521109000177, 43.375096348002685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3594,
+        "NAME": "FLINT RIVER - FLOOD CONTROL",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.73343337800165, 43.02000052000278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3595,
+        "NAME": "FORT WAYNE, IN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.14491487400173, 41.082374692002816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3596,
+        "NAME": "KOONTZ LAKE, IN               ADKL0",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.47547972800186, 41.41503567200275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3597,
+        "NAME": "CEDARS LOCK - FOX RIVER WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.3175150830019, 44.26758535700253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3598,
+        "NAME": "NEW BUFFALO HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.74989096400185, 41.80139577800269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3599,
+        "NAME": "LUNA PIER MI FDR",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.44243897400165, 41.80700612400286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3600,
+        "NAME": "BOLLES HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.37878894600166, 41.87133615400287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3601,
+        "NAME": "MONROE HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.33850892600165, 41.892716164002834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3602,
+        "NAME": "ST. JOSEPH RIVER",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.47631085600177, 42.08384590400273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3661,
+        "NAME": "DEER CREEK",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.58301139800184, 41.503015584002675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3662,
+        "NAME": "UPPER DES PLAINES RIVER I",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.88887141200188, 42.09448871200265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3663,
+        "NAME": "CADY MARSH DITCH",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.41771131200184, 41.559015620002675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3712,
+        "NAME": "KAUKAUNA 2 LOCK - FOX RIVER WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.27168240200183, 44.28168642600257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3713,
+        "NAME": "KAUKAUNA 3 LOCK - FOX RIVER WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.27168240200183, 44.28168642600257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3714,
+        "NAME": "KAUKAUNA 4 LOCK - FOX RIVER WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.27168240200183, 44.28168642600257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3715,
+        "NAME": "KAUKAUNA 5 LOCK - FOX RIVER WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.27168240200183, 44.28168642600257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3716,
+        "NAME": "LITTLE KAUKAUNA  LOCK - FOX RIVER WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.27168240200183, 44.28168642600257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3717,
+        "NAME": "FOX RIVER  WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.22838238000186, 44.29724643600257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3718,
+        "NAME": "RAPID CROCHE LOCK - FOX RIVER WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.19834236600185, 44.31668644600254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3719,
+        "NAME": "PORTAGE LAKE HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.26311120800173, 44.35943669000263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3720,
+        "NAME": "AU SABLE HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.32360940200164, 44.40734703400274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3721,
+        "NAME": "DEPERE LOCK - FOX RIVER WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.06336231600183, 44.44757650400255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3722,
+        "NAME": "WISCONSIN RIVER, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.71683330200189, 44.4505363000025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3723,
+        "NAME": "KEWAUNEE HARBOR  WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.50141198200183, 44.460456576002585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3724,
+        "NAME": "ARCADIA HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.24735122600175, 44.485056732002604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3725,
+        "NAME": "GREEN BAY  WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.00597230400183, 44.536616540002555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3726,
+        "NAME": "GREEN BAY HARBOR - DIKE DISPOSAL",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.00597230400183, 44.536616540002555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3727,
+        "NAME": "ALGOMA HARBOR  WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.43202197400178, 44.608436632002594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3728,
+        "NAME": "FRANKFORT HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.24511125800173, 44.62945678000262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3729,
+        "NAME": "BIG SUAMICO  WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.00875232800182, 44.630876570002556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3730,
+        "NAME": "HARRISVILLE HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.2862494320016, 44.6601871220027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3731,
+        "NAME": "HARRISVILLE HARBOR - MITIGATION OF SHORE DAMAGE",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.2862494320016, 44.6601871220027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3732,
+        "NAME": "GREILICKVILLE (TRAVERSE CITY) HARBOR MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.63639092000167, 44.79054690200266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3733,
+        "NAME": "STURGEON BAY AND LAKE MICHIGAN CANAL",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.32361195400176, 44.80082670600257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3734,
+        "NAME": "PENSAUKEE HARBOR  WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.90291231000184, 44.82254664200256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3735,
+        "NAME": "OCONTO HARBOR  WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.8294122840018, 44.89529667400256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3736,
+        "NAME": "LELAND HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.76201105200168, 45.02363696200263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3737,
+        "NAME": "ALPENA HARBOR  MICHIGAN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.42704960600159, 45.06177724000269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3738,
+        "NAME": "MENOMINEE HARBOR  MICHIGAN AND WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.59236218800181, 45.09470676600255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3739,
+        "NAME": "LITTLE CHUTE 2 LOCK - FOX RIVER WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.4431427120018, 45.13103667200251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3740,
+        "NAME": "LITTLE CHUTE UPPER LOCK - FOX RIVER WISCONSIN ",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.4431427120018, 45.13103667200251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3768,
+        "NAME": "Fulton County, IN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.29217058900181, 41.0679179800028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3773,
+        "NAME": "107 Mentor Harbor, OH",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.31400765200155, 41.73001630200297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3775,
+        "NAME": "14 Swan Creek, S. Toledo, OH FED",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.53300900200165, 41.64801605800286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3800,
+        "NAME": "FAIRPORT HARBOR",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.28040763600148, 41.75991631600292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3902,
+        "NAME": "ROCKY RIVER HARBOR",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.83580793400152, 41.48901616400297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3946,
+        "NAME": "KAWKAWLIN DREDGING, MI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.99460767200162, 43.69296572200274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3947,
+        "NAME": "KNIFE RIVER HARBOR, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.77931520800192, 46.94394675800225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3966,
+        "NAME": "NORTHEASTERN MINNESOTA ENVIRONMENTAL INFRASTRUCTURE, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.66993738200188, 47.709778984002234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3967,
+        "NAME": "NORTHERN WISCONSIN ENVIRONMENTAL ASSISTANCE, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "LRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.40699470800183, 45.20527969800247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 5429,
+        "NAME": "D5 Milwaukee WI FY16 Demo 88th RSC USARC",
+        "DESCRIPTION": "D5 Milwaukee WI FY16 Demo 88th RSC USARC",
+        "ORG_CD": "HNC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.68322376000198, 44.00986604000248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1332,
+        "NAME": "LOCK #10 - MISSISSIPPI R. BETWEEN MISSOURI AND MPLS MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.09503370800199, 42.78498560000244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1333,
+        "NAME": "PRAIRIE DU CHIEN WI COMMERCIAL BOAT HARBOR ",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.15681380400201, 43.04611567600247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1334,
+        "NAME": "PRARIE DU CHIEN WI SMALL BOAT HARBOR ",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.15111380200197, 43.0524156800025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1337,
+        "NAME": "EMERSON, MANITOBA - NOYES, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.20511907200196, 48.99831644400189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1338,
+        "NAME": "ENDERLIN, MAPLE RIVER, ND",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.5971184340021, 46.624615794002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1339,
+        "NAME": "GILMORE CREEK, WINONA, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.700314362002, 44.05721592200241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1340,
+        "NAME": "GRAFTON, PARK RIVER, ND",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.41021896400201, 48.41241627000189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1341,
+        "NAME": "GUTTENBERG, IA",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.10311371600199, 42.799715604002465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1342,
+        "NAME": "HARRIET ISLAND HARBOR, ST. PAUL, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.099815396002, 44.93461599800227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1343,
+        "NAME": "HOMME LAKE & DAM, PARK RIVER, ND",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.792519174002, 48.404216204001905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1344,
+        "NAME": "MINNEHAHA CREEK WATERSHED, UMR LAKE ITASCA TO L&D 2, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.207640292002, 47.217073322002044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1345,
+        "NAME": "MISSISSIPPI AND LEECH RIVERS, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.22164673400202, 47.247746480002135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1346,
+        "NAME": "RESERVOIRS AT HEADWATERS OF MISSISSIPPI RIVER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.32795407000198, 46.79040949000218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1347,
+        "NAME": "MINNEHAHA CREEK WATERSHED, UMR LAKE ITASCA TO L&D 2, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.21253730600199, 47.25386633000205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1348,
+        "NAME": "UPPER MISSISSIPPI RIVER FROM LAKE ITASCA, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.01980325200202, 47.42299140400207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1349,
+        "NAME": "WINNIBIGOSH LAKE - RESERVOIRS AT HEADWATERS OF MISS RVR MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.19805678400198, 47.441606536002084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1350,
+        "NAME": "SA CROOKSTON, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.60813827800202, 47.77415624400195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1351,
+        "NAME": "CROOKSTON, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.61134628000202, 47.775471244001984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1352,
+        "NAME": "CROOKSTON, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.61134628000202, 47.775471244001984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1353,
+        "NAME": "RED LAKE RIVER MINNESOTA",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.467018208002, 47.800216272001975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1355,
+        "NAME": "GRAND FORKS, ND - EAST GRAND FORKS, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.029584570002, 47.927369214001956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1364,
+        "NAME": "WINONA SMALL BOAT HARBOR, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.64311433000198, 44.061315932002444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1365,
+        "NAME": "LOCK #5 - MISSISSIPPI R. BETWEEN MISSOURI AND MPLS MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.68349435800198, 44.08043593200239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1366,
+        "NAME": "LOCK #5A - MISSISSIPPI R. BETWEEN MISSOURI AND MPLS MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.66812435200198, 44.089295936002365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1367,
+        "NAME": "UPPER MISSISSIPPI RIVER RESTORATION, IL, IA, MN, MO & WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.724297727002, 44.1294159420024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1368,
+        "NAME": "LOCK #4 - MISSISSIPPI R. BETWEEN MISSOURI AND MPLS MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.91952455600197, 44.32567597600241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1369,
+        "NAME": "ALMA WI SMALL BOAT HARBOR ",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.93091456600199, 44.340815978002375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1370,
+        "NAME": "WABASHA MN SMALL BOAT HARBOR ",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.04151464200201, 44.386715978002364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1371,
+        "NAME": "PEPIN SMALL BOAT HARBOR",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.14791471600198, 44.43781598000234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1372,
+        "NAME": "MARSHALL, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.7883497700021, 44.446959476002185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1401,
+        "NAME": "WINONA, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.64146665100199, 44.056619741002436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1402,
+        "NAME": "YELLOW MEDICINE RIVER AT MINNEOTA, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.99175200800212, 44.56374855700214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1403,
+        "NAME": "ZUMBRO RIVER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.98661459200201, 44.31411596400238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1404,
+        "NAME": "GRAND FORKS, ND - EAST GRAND FORKS, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.03220919200204, 47.92858807400194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1405,
+        "NAME": "Zippel Bay Harbor, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.86496124500195, 48.875683907002006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1406,
+        "NAME": "FOUNTAIN CITY BOATYARD",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.71996612300198, 44.13111963100237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1407,
+        "NAME": "RED RIVER OF THE NORTH DRAINAGE BASIN, RUSH RIVER, ND",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.13496686600205, 46.97077031100201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1408,
+        "NAME": "Fargo, ND - Moorhead, MN Metro Study (Rrn Basin Auth)",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.78070006600204, 46.87741198800203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1410,
+        "NAME": "Red River Of The North Basin, MN, ND, SD, & Manitoba Canada ",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.14792687600203, 48.57425535200192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1411,
+        "NAME": "SA Blue Earth River, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.10770082900204, 44.0922858690023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1412,
+        "NAME": "B6-Section 524, Minnesota Dams",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.63370089100202, 48.723035404001884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1413,
+        "NAME": "Minnesota River Recon",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.15103164900201, 44.89566297600228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1414,
+        "NAME": "SA - ST CROIX HEADWATERS, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.98801511000191, 46.19801651800228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1415,
+        "NAME": "SA Zebra Mussel Control Feas",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.80496207500205, 44.74991901300234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1416,
+        "NAME": "BARABOO RIVER, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.4417992100019, 43.487499130002554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1417,
+        "NAME": "BLUE EARTH RIVER ECOSYSTEM RESTORATION, MN (MN RIVER AUTH)",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0369164180021, 44.16414854200231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1418,
+        "NAME": "GRAFTON, PARK RIVER, ND",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.410018964002, 48.41201627000189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1419,
+        "NAME": "HOUSTON                       AM029",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.567814212002, 43.76661585000241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1420,
+        "NAME": "LOWER ST ANTHONY FALLS RAPIDS RESTORATION, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.25701549800205, 44.981015988002305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1421,
+        "NAME": "LOWER ST ANTHONY FALLS RAPIDS RESTORATION, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.25701549800205, 44.981015988002305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1422,
+        "NAME": "MIDTOWN DAM ND                AD231   3",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.78189106400207, 46.871209986001986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1423,
+        "NAME": "SA - ST CROIX HEADWATERS, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.92220008800194, 46.25565554200228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1424,
+        "NAME": "SOUTH WASHINGTON COUNTY WATERSHED, UMR LAKE ITASCA TO L&D 2,",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.200314288002, 47.21664072200206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1425,
+        "NAME": "ST CROIX RIVER BASIN, MN & WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.18175597000199, 46.054305518002266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1426,
+        "NAME": "ST. CROIX R, WI RELOC ENDANG MUSSELS (ZEBRA MUSSEL CONT-UMR)",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.80501517600204, 44.75001598400233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1427,
+        "NAME": "SUNRISE RIVER WATERSHED STUDY (ST. CROIX RIVER BASIN)",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.88401541400201, 45.44201617400227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1429,
+        "NAME": "UPPER MISS RIVER WATERSHED MGMT, LAKE ITASCA ",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.200314288002, 47.21664072200206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1430,
+        "NAME": "UPPER MISS RIVER WATERSHED MGMT, LAKE ITASCA ",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.200314288002, 47.21664072200206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1431,
+        "NAME": "WILD RICE RIVER, RED RIVER OF THE NORTH BASIN, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.83699424800201, 47.31820109200196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1433,
+        "NAME": "BASSETT CREEK, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.33761555000201, 45.0036159840023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1434,
+        "NAME": "BLACK BEAR & MILLER LAKES, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.062516408002, 46.510416306002185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1435,
+        "NAME": "BLACK RIVER, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.25751405000194, 43.83511591200243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1437,
+        "NAME": "CHASKA, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.58141563000206, 44.78811588800225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1438,
+        "NAME": "COCHRANE DRAINAGE DITCH, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.83831448200202, 44.22211595500236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1441,
+        "NAME": "ELK RIVER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.56678076400205, 45.296990166002246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1505,
+        "NAME": "MISSISSIPPI RIVER NEAR AITKIN, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.718916220002, 46.54031636400215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1506,
+        "NAME": "PINE CREEK, ANGLE INLET, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.06041796600196, 49.34691688400197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1507,
+        "NAME": "PORTAGE, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.46331293400193, 43.5388160440025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1508,
+        "NAME": "RED LAKE RIVER INCLUDING CLEARWATER RIVER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.582505575002, 47.98685149600202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1509,
+        "NAME": "RED RIVER OF THE NORTH AT ARGUSVILLE, ND",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.93491821000207, 47.05231600800199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1510,
+        "NAME": "RED RIVER OF THE NORTH AT HALSTAD, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.83179000300206, 47.35157099900197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1511,
+        "NAME": "RED RIVER OF THE NORTH AT OSLO, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.129141877002, 48.19867190900193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1512,
+        "NAME": "RED RIVER OF THE NORTH AT PEMBINA, ND",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.24541908200197, 48.96501643000185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1513,
+        "NAME": "RED RIVER OF THE NORTH DRAINAGE BASIN, FARGO, ND",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.78651807000203, 46.87801598600198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1514,
+        "NAME": "RED RIVER OF THE NORTH DRAINAGE BASIN, GRAND FORKS, ND",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.03211857200199, 47.928316214001946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1515,
+        "NAME": "RED RIVER OF THE NORTH DRAINAGE BASIN, ORWELL DAM, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.17911751400207, 46.21621590800204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1516,
+        "NAME": "RED RIVER OF THE NORTH DRAINAGE BASIN, OTTER TAIL RIVER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.49664966600204, 46.252761424002024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1517,
+        "NAME": "RED RIVER OF THE NORTH DRAINAGE BASIN, SAND HILL RIVER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.53301815200201, 47.53571619600199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1518,
+        "NAME": "RED RIVER OF THE NORTH DRAINAGE BASIN, WILD RICE & MARSH RIVERS, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.43347312500205, 47.291421766001996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1519,
+        "NAME": "REDWOOD RIVER BELOW MARSHALL, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.34321653600207, 44.48851555200223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1520,
+        "NAME": "RESERVOIRS AT HEADWATERS OF MISSISSIPPI RIVER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.227416738002, 47.24801648000211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1521,
+        "NAME": "ROCHESTER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.46121479000205, 44.022015812002394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1522,
+        "NAME": "ROSEAU RIVER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.44661863200196, 48.9841165680019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1523,
+        "NAME": "RUSHFORD, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.74961432800198, 43.80841584000244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1524,
+        "NAME": "SANDERS CREEK, BOSCOBEL, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.70341356400198, 43.13601576200247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1525,
+        "NAME": "SHEYENNE RIVER, ND",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.9088181080021, 46.788615944002025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1526,
+        "NAME": "SNAKE RIVER AT ALVARADO, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.00461865400199, 48.1936162840019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1527,
+        "NAME": "ST PAUL & SOUTH ST PAUL, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.02643935400204, 44.89402728600228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1528,
+        "NAME": "ST. PAUL, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.08377516000202, 44.94354838000228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1529,
+        "NAME": "STATE ROAD AND EBNER COULEES, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.20906185900199, 43.7749204220024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1530,
+        "NAME": "STILLWATER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.80429199300198, 45.057047765002295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1531,
+        "NAME": "UPPER IOWA RIVER, IA",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.28611398000203, 43.476515796002445]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1532,
+        "NAME": "VERMILLION RIVER AT HASTINGS, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.85862366700199, 44.720348589002306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1533,
+        "NAME": "WILD RICE RIVER-SOUTH BRANCH & FELTON DITCH, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.66883640300202, 47.14455532700198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1666,
+        "NAME": "LOCK #1 - MISSISSIPPI R. BETWEEN MISSOURI AND MPLS MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.20061544800201, 44.9153159780023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1667,
+        "NAME": "ST PAUL SMALL BOAT HARBOR",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.09270539400201, 44.94099600000227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1668,
+        "NAME": "ST. CROIX RIVER",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.75991520800197, 44.95981605200232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1669,
+        "NAME": "UPPER MISSISSIPPI RIVER RESTORATION ",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.25162549600203, 44.97998599000226]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1670,
+        "NAME": "LOWER ST ANTHONY FALLS L&D-MISS R BETWEEN MO R & MINNEAPOLIS",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.25736549800202, 44.981025988002294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1671,
+        "NAME": "UPPER ST ANTHONY FALLS L&D-MISS R BETWEEN MO R & MINNEAPOLIS",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.257035498002, 44.98132598800227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1672,
+        "NAME": "LAC QUI PARLE LAKES MINNESOTA",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.86919698000209, 45.02209562800213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1673,
+        "NAME": "SA STILLWATER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.80605526000197, 45.05637607400231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1674,
+        "NAME": "STILLWATER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.804295260002, 45.05704607400227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1675,
+        "NAME": "MARSH LAKE, MN (MINNESOTA RIVER AUTHORITY)",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.15422818800212, 45.19537963400213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1676,
+        "NAME": "MARSH LAKE, MN (MINNESOTA RIVER AUTHORITY)",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.1622711940021, 45.20384863400211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1677,
+        "NAME": "MISS R BET MO R & MINNEAPOLIS-LS & DS 3,5A-9- (MAJ0R REHAB) ",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.569025748002, 45.23603601800223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1678,
+        "NAME": "MINNESOTA RIVER BASIN, MN & SD",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.45313238200212, 45.29666061600211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1722,
+        "NAME": "PORTAGE, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.47125993800191, 43.53591204200256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1723,
+        "NAME": "LOCK #8 - MISSISSIPPI R. BETWEEN MISSOURI AND MPLS MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.23002397000202, 43.570325832002446]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1724,
+        "NAME": "LA FARGE LAKE WISCONSIN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.63181363000194, 43.59531591600248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1725,
+        "NAME": "LOCK #7 - MISSISSIPPI R. BETWEEN MISSOURI AND MPLS MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.31014408800198, 43.865635914002425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1726,
+        "NAME": "LOCK #6 - MISSISSIPPI R. BETWEEN MISSOURI AND MPLS MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.437544196002, 44.00013594000241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1727,
+        "NAME": "WINONA COMMERCIAL HARBOR",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.657024338002, 44.06055593000243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1765,
+        "NAME": "HOUSTON, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.567814212002, 43.76661585000241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1766,
+        "NAME": "LAKE PULASKI, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.86691590400201, 45.19161596400224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1768,
+        "NAME": "MANKATO AND NORTH MANKATO, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0189157100021, 44.166015644002265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1769,
+        "NAME": "MARSHALL, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.78911677000211, 44.447315476002125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1770,
+        "NAME": "MIDDLE RIVER AT ARGYLE, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.81711860200198, 48.33921635000194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1771,
+        "NAME": "MINNESOTA RIVER AT HENDERSON, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.90501574200208, 44.52951576600226]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1772,
+        "NAME": "RED RIVER OF THE NORTH, MN AND ND",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.13238880600197, 48.41045631600193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1774,
+        "NAME": "BAUDETTE MN SMALL BOAT HARBOR ",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.59561745800193, 48.71461680200205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1775,
+        "NAME": "ROSEAU, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.76043318400195, 48.846433646001934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1776,
+        "NAME": "ROSEAU, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.76043318400195, 48.846433646001934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1777,
+        "NAME": "ROSEAU, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.76043318400195, 48.846433646001934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1778,
+        "NAME": "ZIPPLE BAY HARBOR - 000485",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.85859767000193, 48.87395680000198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1779,
+        "NAME": "ZIPPEL BAY BOAT HARBOR",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.86561767600192, 48.87609679800201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1780,
+        "NAME": "WARROAD HARBOR  MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.30891794400196, 48.903916734001974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1781,
+        "NAME": "SA ROSEAU RIVER, MN",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.24979915600194, 49.150006472001834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1953,
+        "NAME": "RED RIVER OF THE NORTH BASIN, ND, MN, SD & MANITOBA, CANADA",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.81733916000202, 47.093168038002005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1954,
+        "NAME": "RED RIVER OF THE NORTH BASIN, ND, MN, SD & MANITOBA, CANADA",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.81733916000202, 47.093168038002005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1955,
+        "NAME": "RED RIVER OF THE NORTH BASIN, ND, MN, SD & MANITOBA, CANADA",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.81733916000202, 47.093168038002005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1956,
+        "NAME": "LEACH LAKE - RESERVOIRS AT HEADWATERS OF MISSISSIPPI RIVER",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.40530681200198, 47.16228643000211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1957,
+        "NAME": "POKEGEMA LAKE-RESERVOIRS AT HEADWATERS OF MISSISSSIPPI RIVER",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.58576634800194, 47.19330656200213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1992,
+        "NAME": "LAKE CITY SMALL BOAT HARBOR",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.26421478800198, 44.45121596800234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1993,
+        "NAME": "RED WING SMALL BOAT HARBOR",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.545114978002, 44.56541596400236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1994,
+        "NAME": "RED WING COMMERCIAL HARBOR",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.55191498200202, 44.56661596400234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1997,
+        "NAME": "BAY CITY SMALL BOAT HARBOR, WI",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.46441493600202, 44.577215978002315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1998,
+        "NAME": "BAY CITY WI SMALL BOAT HARBOR ",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.46441493600202, 44.577215978002315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1999,
+        "NAME": "HASTINGS MN SMALL BOAT HARBOR ",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.83721519400201, 44.74511597800232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2000,
+        "NAME": "ST. CROIX R, WI RELOC ENDANG MUSSELS (ZEBRA MUSSEL CONT-UMR)",
+        "DESCRIPTION": null,
+        "ORG_CD": "MVP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.80496517600197, 44.74991598400231]
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<svg id="53e892c6-5c79-425c-aa71-ee6a0cfd5c86" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <title>road-closure-red-icon</title>
+  <circle cx="28" cy="28" r="28" fill="#991f1f"/>
+  <path d="M28,50A22,22,0,1,1,50,28,22,22,0,0,1,28,50Zm0-40A18,18,0,1,0,46,28,18,18,0,0,0,28,10Z" fill="#ccc"/>
+  <rect x="16" y="26" width="24" height="4" rx="0.3" ry="0.3" fill="#ccc"/>
+</svg>
